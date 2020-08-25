@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 54,
+    "uniqCompNum": 60,
     "versionPublish": "5.0.29",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -679,7 +679,7 @@
     "page1.html": {
       "settings": {
         "title": "Crew nestOne",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1381,7 +1381,7 @@
     "page2.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2084,7 +2084,7 @@
     "page3.html": {
       "settings": {
         "title": "Research Paper",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
